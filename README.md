@@ -137,30 +137,6 @@ Since Tableau Public cannot connect directly to SQL Server:
 </div>
 
 </div>
-
-### Tableau
-- Dashboard Design  
-- Geographic Mapping  
-- Forecasting  
-- KPI Visualization  
-- Data Storytelling  
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### Tableau
-- Dashboard Design  
-- Geographic Mapping  
-- Forecasting  
-- KPI Visualization  
-- Data Storytelling  
-
-</td>
-</tr>
-</table>
 ---
 
 ## Key Insights
