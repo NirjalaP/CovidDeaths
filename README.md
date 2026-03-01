@@ -52,7 +52,7 @@ Imported OWID COVID dataset into SQL Server and performed:
 
 ### 2. SQL Analysis
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -60,6 +60,8 @@ Imported OWID COVID dataset into SQL Server and performed:
 - Total global cases  
 - Total global deaths  
 - Global death percentage  
+
+<br>
 
 ### Infection Analysis
 - Likelihood of death by country  
@@ -73,6 +75,8 @@ Imported OWID COVID dataset into SQL Server and performed:
 ### Impact Analysis
 - Countries with highest death counts  
 - Deaths by continent  
+
+<br>
 
 ### Vaccination Analysis
 - Joined deaths and vaccination datasets  
