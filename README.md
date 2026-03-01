@@ -109,6 +109,8 @@ Since Tableau Public cannot connect directly to SQL Server:
 ---
 
 ## Skills Demonstrated
+## Skills Demonstrated
+
 <table width="100%">
 
 <tr>
@@ -122,6 +124,7 @@ Since Tableau Public cannot connect directly to SQL Server:
 - Temp Tables  
 - Views  
 - Data Cleaning & Transformation  
+
 </td>
 
 <td width="50%" valign="top">
@@ -137,7 +140,6 @@ Since Tableau Public cannot connect directly to SQL Server:
 </tr>
 
 </table>
-
 ## Key Insights
 - Europe and North America recorded the highest death totals.
 - Infection rates vary significantly when normalized by population.
