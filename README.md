@@ -117,7 +117,7 @@ Since Tableau Public cannot connect directly to SQL Server:
 
 ### SQL
 - Joins  
-- Window Functions (`OVER`, `PARTITION BY`)  
+- Window Functions (`OVER`,&nbsp;`PARTITION&nbsp;BY`)
 - Aggregations  
 - CTEs  
 - Temp Tables  
