@@ -110,9 +110,9 @@ Since Tableau Public cannot connect directly to SQL Server:
 
 ## Skills Demonstrated
 
-<div style="display:flex; gap:60px;">
-
-<div style="flex:1;">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### SQL
 - Joins  
@@ -123,9 +123,9 @@ Since Tableau Public cannot connect directly to SQL Server:
 - Views  
 - Data Cleaning & Transformation  
 
-</div>
+</td>
 
-<div style="flex:1;">
+<td width="50%" valign="top">
 
 ### Tableau
 - Dashboard Design  
@@ -134,9 +134,9 @@ Since Tableau Public cannot connect directly to SQL Server:
 - KPI Visualization  
 - Data Storytelling  
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 ---
 
 ## Key Insights
