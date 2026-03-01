@@ -110,22 +110,33 @@ Since Tableau Public cannot connect directly to SQL Server:
 
 ## Skills Demonstrated
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 ### SQL
-- Joins
-- Window Functions (`OVER`, `PARTITION BY`)
-- Aggregations
-- CTEs
-- Temp Tables
-- Views
-- Data Cleaning & Transformation
+- Joins  
+- Window Functions (`OVER`, `PARTITION BY`)  
+- Aggregations  
+- CTEs  
+- Temp Tables  
+- Views  
+- Data Cleaning & Transformation  
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Tableau
-- Dashboard Design
-- Geographic Mapping
-- Forecasting
-- KPI Visualization
-- Data Storytelling
+- Dashboard Design  
+- Geographic Mapping  
+- Forecasting  
+- KPI Visualization  
+- Data Storytelling  
 
+</td>
+</tr>
+</table>
 ---
 
 ## Key Insights
