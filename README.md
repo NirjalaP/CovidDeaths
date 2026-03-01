@@ -52,27 +52,36 @@ Imported OWID COVID dataset into SQL Server and performed:
 
 ### 2. SQL Analysis
 
-Key analyses performed:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### Global Metrics
-- Total global cases
-- Total global deaths
-- Global death percentage
+### Global Metrics
+- Total global cases  
+- Total global deaths  
+- Global death percentage  
 
-#### Infection Analysis
-- Likelihood of death by country
-- Percentage of population infected
-- Countries with highest infection rate vs population
+### Infection Analysis
+- Likelihood of death by country  
+- Percentage of population infected  
+- Countries with highest infection rate vs population  
 
-#### Impact Analysis
-- Countries with highest death counts
-- Deaths by continent
+</td>
 
-#### Vaccination Analysis
-- Joined deaths and vaccination datasets
-- Created rolling vaccination totals using window functions
-- Built reusable SQL View for Tableau
+<td width="50%" valign="top">
 
+### Impact Analysis
+- Countries with highest death counts  
+- Deaths by continent  
+
+### Vaccination Analysis
+- Joined deaths and vaccination datasets  
+- Rolling vaccination totals using window functions  
+- Reusable SQL View for Tableau  
+
+</td>
+</tr>
+</table>
 ---
 
 ### 3. Tableau Dashboard Development
