@@ -12,7 +12,7 @@ Raw Dataset → SQL Analysis → Tableau Dashboard → Public Visualization
 ## Dashboard Preview
 
 
-![COVID Dashboard](dashboard.png)
+![COVID Dashboard](Tableau/Tableau%20Dashboard.png)
 
 ---
 
@@ -118,6 +118,4 @@ Since Tableau Public cannot connect directly to SQL Server:
 ## Tableau Dashboard
 👉 **Live Dashboard:** *https://public.tableau.com/app/profile/nirjala.prajapati/viz/CovidProject_17705793166420/Dashboard1*
 
----
 
-## Repository Structure
