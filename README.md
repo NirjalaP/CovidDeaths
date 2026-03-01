@@ -110,40 +110,11 @@ Since Tableau Public cannot connect directly to SQL Server:
 
 ## Skills Demonstrated
 
-<table width="100%">
+**SQL:** Joins • Window Functions (OVER, PARTITION BY) • Aggregations • CTEs • Temp Tables • Views • Data Cleaning & Transformation  
 
-<tr>
-<td width="50%" valign="top">
+**Tableau:** Dashboard Design • Geographic Mapping • Forecasting • KPI Visualization • Data Storytelling
+---
 
-### SQL
-- Joins  
-- Window Functions (`OVER`,&nbsp;`PARTITION&nbsp;BY`)
-- Aggregations  
-- CTEs  
-- Temp Tables  
-- Views  
-- Data Cleaning & Transformation  
-
-</td>
-
-<td width="50%" valign="top">
-
-### Tableau
-- Dashboard Design  
-- Geographic Mapping  
-- Forecasting  
-- KPI Visualization  
-- Data Storytelling  
-
-</td>
-</tr>
-
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-
-</table>
 ## Key Insights
 - Europe and North America recorded the highest death totals.
 - Infection rates vary significantly when normalized by population.
